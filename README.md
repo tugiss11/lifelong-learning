@@ -29,6 +29,9 @@ This repository is heavily inspired by [this tremendous resource](https://github
   - _"Egos are left outside of the organization. Ask yourself, am I serving myself, my career, my team or our common goals?"_
   - _"Direction and vision should come within, not given. Find your intrinsic motivation. Modern organizations are described as living systems that continuously change and adapt."_
 - [Coaching for Performance](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
+  - _“Coaching is unlocking people’s potential to maximize their own performance. It is helping them to learn rather than teaching them.”_
+  - “_The carrot and the stick are prevasive and persuasive motivators. But if you treat people like donkeys, they will perform like donkeys.”_
+  - _"The GROW Model is a coaching framework used in conversations, meetings and everyday leadership to unlock potential and possibilities. GROW was created by Sir John Whitmore and colleagues in the late 1980s. It has since become the world’s most popular coaching model for problem solving, goal setting and performance improvement."_
 - [Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do](https://www.goodreads.com/book/show/24611735-black-box-thinking)
   - _“It highlights the need for a growth mindset in life…It advocates for changing attitudes towards failure, and understanding that the only way we learn is by trying things and altering our behaviour based on the results.”_ Richard Branson, Virgin Group
   - _“An extraordinary, inspirational book which reveals how great performers and teams are driven by an insatiable curiosity for marginal gains, together with the intellectual courage to challenge their most cherished assumptions.”_ Dave Brailsford, Great Britain Cycling Team
