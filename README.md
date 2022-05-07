@@ -63,8 +63,16 @@ I will use this repository as tool to support my lifelong learning. This way of 
   - _“If I told you that you weren’t going home until we win—what would you do differently?”_
   - _“Today’s rapidly changing world, marked by increased speed and dense interdependencies, means that organizations everywhere are now facing dizzying challenges, from global terrorism to health epidemics to supply chain disruption to game-changing technologies. These issues can be solved only by creating sustained organizational adaptability through the establishment of a team of teams. Years ago, a Fortune 500 firm was expected to last around seventy-five years. Today this life expectancy is less than fifteen years and is constantly declining.”_
   
-  
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
+  - _“Traditional managers worry about how to get things done, whereas great managers worry about what things get done (and trust their team to figure out how to do it).”_
+  - _“Programming is the immediate act of producing code. Software engineering is the set of policies, practices, and tools that are necessary to make that code useful for as long as it needs to be used and allowing collaboration across a team.”_
+  - _“Knowledge is in some ways the most important (though intangible) capital of a software engineering organization, and sharing of that knowledge is crucial for making an organization resilient and redundant in the face of change. A culture that promotes open and honest knowledge sharing distributes that knowledge efficiently across the organization and allows that organization to scale over time. In most cases, investments into easier knowledge sharing reap manyfold dividends over the life of a company.”_
+  - _“In a professional software engineering environment, criticism is almost never personal - it’s usually just part of the process of making a better project. The trick is to make sure you (and those around you) understand the difference between a constructive criticism of someone’s creative output and a flat-out assault against someone’s character._
+  - _Software is sustainable when, for the expected life span of the code, we are capable of responding to changes in dependencies, technology, or product requirements. We may choose to not change things, but we need to be capable._
+  - _“If you liked it, you should have put a test on it.”_
+  - _"Previous research (DORA/State of DevOps/Accelerate) has shown that trunk-based development is a predictive factor in high-performing development organizations. Long-lived dev branches are not a good default plan."_
+  - _"Velocity is a team sport: The optimal workflow for a large team that develops code collaboratively requires modularity of architecture and near-continuous integration."_
+  - _"Faster is safer: Ship early and often and in small batches to reduce the risk of each release and to minimize time to market."_
 
 ## List of professional passions
 - Agile and lean
@@ -74,6 +82,7 @@ I will use this repository as tool to support my lifelong learning. This way of 
 - DevOps
 - Leadership
 - Product thinking
+- Productivity
 - Software engineering and craftsmanship
 - Transparency
 
