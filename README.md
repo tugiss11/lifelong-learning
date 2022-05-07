@@ -26,3 +26,15 @@ This repository is heavily inspired by [this tremendous resource](https://github
 - [Harder, better, faster, stronger - nya idéer för morgondagens ledarskap](https://www.goodreads.com/book/show/41823099-harder-better-faster-stronger---nya-id-er-f-r-morgondagens-ledarskap)
 - [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams)
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
+
+### List of passions
+- Agile and lean
+- Coaching and mentoring
+- Data and analytics
+- Developer Experience
+- DevOps
+- Leadership
+- Product thinking
+- Software engineering and craftsmanship
+- Transparency
+
