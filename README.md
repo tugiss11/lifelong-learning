@@ -4,7 +4,7 @@ Lifelong learning is the "ongoing, voluntary, and self-motivated" pursuit of kno
 
 ## What This is, and Where It comes from
 
-This repository is heavily inspired by [this tremendous resource](https://github.com/LappleApple/awesome-leading-and-managing). I used to have all this stuff in my notes but now I want to try out repository so it's easily shareable and I can see the learning path from commit history 😁
+I will use this repository as tool to support my lifelong learning. This way of collecting resources to a repository is heavily inspired by [this tremendous resource](https://github.com/LappleApple/awesome-leading-and-managing). I used to have all this stuff in my notes but now I want to try out a repository so it's easily shareable and I can see the learning path by just looking at the commit history 😁
 
 ## Contents
  - [Key inspiration sources](#key-sources-of-inspiration)
@@ -64,7 +64,7 @@ This repository is heavily inspired by [this tremendous resource](https://github
   
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
 
-### List of passions
+## List of professional passions
 - Agile and lean
 - Coaching and mentoring
 - Data and analytics
