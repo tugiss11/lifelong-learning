@@ -39,8 +39,12 @@ I will use this repository as tool to support my lifelong learning. This way of 
   - _"The marginal gains approach is not just about mechanistic iteration. You need judgment and creativity to determine how to find solutions to what the data is telling you, but those judgments, in turn, are tested as part of the next optimization loop. Creativity not guided by a feedback mechanism is little more than white noise."_
   - _"This, then, is what we might call “black box thinking.”* For organizations beyond aviation, it is not about creating a literal black box; rather, it is about the willingness and tenacity to investigate the lessons that often exist when we fail, but which we rarely exploit. It is about creating systems and cultures that enable organizations to learn from errors, rather than being threatened by them."_
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+  - _“Truth can only be found in one place: the code.”_
+  - _“Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ...[Therefore,] making it easy to read makes it easier to write.”_
   - _"Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way."_
   - _"Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability._"
+  - _"The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures.”_
+  - _“It is a myth that we can get systems “right the first time.” Instead, we should implement only today’s stories, then refactor and expand the system to implement new stories tomorrow. This is the essence of iterative and incremental agility. Test-driven development, refactoring, and the clean code they produce make this work at the code level.”_
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
   - _"Improving daily work is even more important than doing daily work.”_
   - _“Any improvements made anywhere besides the bottleneck are an illusion.”_
