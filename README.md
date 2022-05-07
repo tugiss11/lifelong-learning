@@ -17,6 +17,10 @@ This repository is heavily inspired by [this tremendous resource](https://github
 
 ### Influential books
 - [The Toyota Way to Lean Leadership: Achieving and Sustaining Excellence Through Leadership Development](https://www.goodreads.com/en/book/show/11722275)
+  - _"Long-term philosophy. Base your management decisions on a long-term philosophy, even at the expense of short-term financial  goals."_
+  - _"The right process will produce the right results. Create a continuous process flow to bring problems to the surface.  Build a culture of stopping to fix problems, to get quality right the first time. Use visual control so no problems are hidden."_
+  - _"Add value to the organization by developing your people. Grow leaders who thoroughly understand the work, live the philosophy, and teach it to others. Develop exceptional people and teams who follow your company's philosophy. Teams should consist of 4-5 people. Success is based on the team, not the individual."_
+  - _"Continuously solving root problems drives organizational learning. Become a learning organization through relentless reflection (hansei) and continuous improvement (kaizen)."_
 - [Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness](https://www.goodreads.com/book/show/20787425-reinventing-organizations)
 - [Coaching for Performance](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 - [Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do](https://www.goodreads.com/book/show/24611735-black-box-thinking)
