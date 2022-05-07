@@ -25,7 +25,7 @@ This repository is heavily inspired by [this tremendous resource](https://github
 - [Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness](https://www.goodreads.com/book/show/20787425-reinventing-organizations)
   - _"Striving for wholeness: People bring their whole selves to work instead of putting on a professional mask"_
   - _"Information and knowledge are everything in modern organisations"_
-  -_ "In traditional pyramid structures, people at the bottom tend to feel powerless, resigned and resentful, while those at the top are plagued by stress, politics and mistrust. Modern organizations make everyone more powerful by replacing the pyramid with self-managing teams."_
+  - _"In traditional pyramid structures, people at the bottom tend to feel powerless, resigned and resentful, while those at the top are plagued by stress, politics and mistrust. Modern organizations make everyone more powerful by replacing the pyramid with self-managing teams."_
   - _"Egos are left outside of the organization. Ask yourself, am I serving myself, my career, my team or our common goals?"_
   - _"Direction and vision should come within, not given. Modern organizations are described as living systems that continuously change and adapt."_
 - [Coaching for Performance](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
