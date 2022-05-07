@@ -40,6 +40,11 @@ This repository is heavily inspired by [this tremendous resource](https://github
   - _"Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way."_
   - _"Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability._"
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+  - _"Improving daily work is even more important than doing daily work.”_
+  - _“Any improvements made anywhere besides the bottleneck are an illusion.”_
+  - _“'technical debt' that is not being paid down. It comes from taking shortcuts, which may make sense in the short-term. But like financial debt, the compounding interest costs grow over time. If an organization doesn’t pay down its technical debt, every calorie in the organization can be spent just paying interest, in the form of unplanned work.”_
+  - _“until code is in production, no value is actually being generated, because it’s merely WIP stuck in the system.”_
+  - _"Being able to take needless work out of the system is more important than being able to put more work into the system.”_
 - [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/2741559-tribal-leadership)
 - [Harder, better, faster, stronger - nya idéer för morgondagens ledarskap](https://www.goodreads.com/book/show/41823099-harder-better-faster-stronger---nya-id-er-f-r-morgondagens-ledarskap)
 - [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams)
