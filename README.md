@@ -4,4 +4,4 @@ Lifelong learning is the "ongoing, voluntary, and self-motivated" pursuit of kno
 
 # What This is, and Where It comes from
 
-This repository is heavily inspired by [this tremendous resource](https://github.com/LappleApple/awesome-leading-and-managing). I used to have all this stuff in my notes but now I want to try out repository so it's easily shareable and I can the learning path from commit history 😁
+This repository is heavily inspired by [this tremendous resource](https://github.com/LappleApple/awesome-leading-and-managing). I used to have all this stuff in my notes but now I want to try out repository so it's easily shareable and I can see the learning path from commit history 😁
