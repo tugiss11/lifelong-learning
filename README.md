@@ -10,7 +10,7 @@ This repository is heavily inspired by [this tremendous resource](https://github
  - [Key inspiration sources](#key-sources-of-inspiration)
  - [Influential books](#influential-books)
  - [List of passions](#list-of-passions)
- - 
+ 
 ### Key sources of inspiration
 - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 - [Gitlab handbook](https://about.gitlab.com/handbook/)
@@ -23,6 +23,11 @@ This repository is heavily inspired by [this tremendous resource](https://github
   - _"Add value to the organization by developing your people. Grow leaders who thoroughly understand the work, live the philosophy, and teach it to others. Develop exceptional people and teams who follow your company's philosophy. Teams should consist of 4-5 people. Success is based on the team, not the individual."_
   - _"Continuously solving root problems drives organizational learning. Become a learning organization through relentless reflection (hansei) and continuous improvement (kaizen)."_
 - [Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness](https://www.goodreads.com/book/show/20787425-reinventing-organizations)
+  - _"Striving for wholeness: People bring their whole selves to work instead of putting on a professional mask"_
+  - _"Information and knowledge are everything in modern organisations"_
+  -_ "In traditional pyramid structures, people at the bottom tend to feel powerless, resigned and resentful, while those at the top are plagued by stress, politics and mistrust. Modern organizations make everyone more powerful by replacing the pyramid with self-managing teams."_
+  - _"Egos are left outside of the organization. Ask yourself, am I serving myself, my career, my team or our common goals?"_
+  - _"Direction and vision should come within, not given. Modern organizations are described as living systems that continuously change and adapt."_
 - [Coaching for Performance](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 - [Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do](https://www.goodreads.com/book/show/24611735-black-box-thinking)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
