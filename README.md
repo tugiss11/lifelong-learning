@@ -34,6 +34,8 @@ This repository is heavily inspired by [this tremendous resource](https://github
   - _“An extraordinary, inspirational book which reveals how great performers and teams are driven by an insatiable curiosity for marginal gains, together with the intellectual courage to challenge their most cherished assumptions.”_ Dave Brailsford, Great Britain Cycling Team
   - _“Creative breakthroughs always begin with multiple failures. This brilliant book shows how true invention lies in the understanding and overcoming of these failures, which we must learn to embrace.”_ James Dyson, Designer, Inventor & Entrepreneur
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+  - _"Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way."_
+  - _"Code is clean if it can be understood easily – by everyone on the team. Clean code can be read and enhanced by a developer other than its original author. With understandability comes readability, changeability, extensibility and maintainability._"
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 - [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/2741559-tribal-leadership)
 - [Harder, better, faster, stronger - nya idéer för morgondagens ledarskap](https://www.goodreads.com/book/show/41823099-harder-better-faster-stronger---nya-id-er-f-r-morgondagens-ledarskap)
