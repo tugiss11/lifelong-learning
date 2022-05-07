@@ -7,9 +7,10 @@ Lifelong learning is the "ongoing, voluntary, and self-motivated" pursuit of kno
 This repository is heavily inspired by [this tremendous resource](https://github.com/LappleApple/awesome-leading-and-managing). I used to have all this stuff in my notes but now I want to try out repository so it's easily shareable and I can see the learning path from commit history 😁
 
 ## Contents
- - [Key inspiration sources](https://github.com/tugiss11/lifelong-learning#key-sources-of-inspiration)
- - [Influential books](https://github.com/tugiss11/lifelong-learning#influential-books)
-
+ - [Key inspiration sources](#key-sources-of-inspiration)
+ - [Influential books](#influential-books)
+ - [List of passions](#list-of-passions)
+ - 
 ### Key sources of inspiration
 - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 - [Gitlab handbook](https://about.gitlab.com/handbook/)
