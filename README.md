@@ -30,6 +30,9 @@ This repository is heavily inspired by [this tremendous resource](https://github
   - _"Direction and vision should come within, not given. Find your intrinsic motivation. Modern organizations are described as living systems that continuously change and adapt."_
 - [Coaching for Performance](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 - [Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do](https://www.goodreads.com/book/show/24611735-black-box-thinking)
+  - _“It highlights the need for a growth mindset in life…It advocates for changing attitudes towards failure, and understanding that the only way we learn is by trying things and altering our behaviour based on the results.”_ Richard Branson, Virgin Group
+  - _“An extraordinary, inspirational book which reveals how great performers and teams are driven by an insatiable curiosity for marginal gains, together with the intellectual courage to challenge their most cherished assumptions.”_ Dave Brailsford, Great Britain Cycling Team
+  - _“Creative breakthroughs always begin with multiple failures. This brilliant book shows how true invention lies in the understanding and overcoming of these failures, which we must learn to embrace.”_ James Dyson, Designer, Inventor & Entrepreneur
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 - [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://www.goodreads.com/book/show/2741559-tribal-leadership)
