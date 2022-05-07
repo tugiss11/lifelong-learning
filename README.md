@@ -27,7 +27,7 @@ This repository is heavily inspired by [this tremendous resource](https://github
   - _"Information and knowledge are everything in modern organisations"_
   - _"In traditional pyramid structures, people at the bottom tend to feel powerless, resigned and resentful, while those at the top are plagued by stress, politics and mistrust. Modern organizations make everyone more powerful by replacing the pyramid with self-managing teams."_
   - _"Egos are left outside of the organization. Ask yourself, am I serving myself, my career, my team or our common goals?"_
-  - _"Direction and vision should come within, not given. Modern organizations are described as living systems that continuously change and adapt."_
+  - _"Direction and vision should come within, not given. Find your intrinsic motivation. Modern organizations are described as living systems that continuously change and adapt."_
 - [Coaching for Performance](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 - [Black Box Thinking: Why Some People Never Learn from Their Mistakes - But Some Do](https://www.goodreads.com/book/show/24611735-black-box-thinking)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
