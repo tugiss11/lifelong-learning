@@ -17,6 +17,7 @@ I will use this repository as tool to support my lifelong learning. This way of 
 - [The Pragmatic Engineer newsletter](https://blog.pragmaticengineer.com/)
 
 ### Influential books
+A collection of my favorite quotes from my favorite books
 - [The Toyota Way to Lean Leadership: Achieving and Sustaining Excellence Through Leadership Development](https://www.goodreads.com/en/book/show/11722275)
   - _"Long-term philosophy. Base your management decisions on a long-term philosophy, even at the expense of short-term financial  goals."_
   - _"The right process will produce the right results. Create a continuous process flow to bring problems to the surface.  Build a culture of stopping to fix problems, to get quality right the first time. Use visual control so no problems are hidden."_
