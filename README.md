@@ -90,4 +90,6 @@ A collection of my favorite quotes from my favorite books
 - Productivity
 - Software engineering and craftsmanship
 - Transparency
+  - [Gitlab as rolemodel](https://about.gitlab.com/handbook/values/#transparency)
+  - [Posthog as rolemodel](https://posthog.com/handbook/company/culture#extremely-transparent)
 
