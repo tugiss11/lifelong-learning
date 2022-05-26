@@ -9,7 +9,7 @@ I will use this repository as tool to support my lifelong learning. This way of 
 ## Contents
  - [Key inspiration sources](#key-sources-of-inspiration)
  - [Influential books](#influential-books)
- - [List of passions](#list-of-professional-passions)
+ - [List of professional passions](#list-of-professional-passions)
  
 ### Key sources of inspiration
 - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
