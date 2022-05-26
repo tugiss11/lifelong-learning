@@ -81,9 +81,23 @@ A collection of my favorite quotes from my favorite books
 
 ## List of professional passions
 - Agile and lean
+  - [_"A backlog full of promises is a backlog full of waste. Any promise made on past understanding is likely to be wrong in the light of current understanding."_](https://twitter.com/allenholub/status/1522975948332621824)
 - Coaching and mentoring
 - Data and analytics
   - [Event sourcing misconceptions](https://medium.com/eventuous/the-right-way-b1a82c787f7b)
+  - [Data mesh principles](https://martinfowler.com/articles/data-mesh-principles.html)
+  - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+    - Cloud-first, elasticity, availability
+    - Separation of storage and compute
+    - Workload isolation
+    - Used defined functions
+    - Multitenancy
+    - Vertical and horizonal scaling
+    - Autoscaling vs overprovisioning
+    - Raw vs conformed data
+    - ETL vs ELT
+    - Serverless vs serverful loading
+    - Batch versus streaming
 - Developer Experience
 - DevOps
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
