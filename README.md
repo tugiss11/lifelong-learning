@@ -81,11 +81,18 @@ A collection of my favorite quotes from my favorite books
 
 ## List of professional passions
 - Agile and lean
-  - [_"A backlog full of promises is a backlog full of waste. Any promise made on past understanding is likely to be wrong in the light of current understanding."_](https://twitter.com/allenholub/status/1522975948332621824)
+  - _"A backlog full of promises is a backlog full of waste. Any promise made on past understanding is likely to be wrong in the light of current understanding."_ [Allen Holub](https://twitter.com/allenholub/status/1522975948332621824)
+  - _"An Agile way to build: 1) Build the smallest simplest thing that does the work necessary to provide a small bit of value. That rarely requires a database. 2) Incrementally improve that thing. 3) If some improvement would have been easier had there been a database, refactor it in."_ [Allen Holub](https://twitter.com/allenholub/status/1519041444773830657)
+  - _"How do you decide what to put in a Sprint without estimates? Just pick the most valuable thing and break it into small chunks so that you can identify the less-valuable parts and deliver often. If it's truly valuable, you can't afford not to do it, so estimates are irrelevant._" [Allen Holub](https://twitter.com/allenholub/status/1529526688270278656)
+  - _"Working at 100% capacity is never a good idea. If local firefighters were putting out fires 100% of the time, you wouldn’t be very happy when your house caught fire. “We’ve added you to the backlog. We'll be there in a few weeks.”"_ [Allen Holub](https://twitter.com/allenholub/status/1522242045959540736)
+  - _"Defects are waste, so if you find one, the kaizen approach is to change your process so that similar defects cannot occur again. The point is to not (just) fix the defect, but to fix the process that allowed the defect to occur in order to prevent future defects from happening."_ [Allen Holub](https://twitter.com/allenholub/status/1515558691197517824)
 - Coaching and mentoring
+- Knowledge sharing
 - Data and analytics
   - [Event sourcing misconceptions](https://medium.com/eventuous/the-right-way-b1a82c787f7b)
   - [Data mesh principles](https://martinfowler.com/articles/data-mesh-principles.html)
+    - _"Are you aiming to build a self-serve data infrastructure as a platform? An automated platform (Infra as a platform) allows the product team to control the lifecycle of data from the hands of a developer at the source to connect the data product and then run the semantic queries at mesh level. The platform provides storage, pipeline, data catalog, and access control to the domains. It reduces any chance of duplication in effort and hence increases the efficiency of data treatment._"
+    - _"Do systems/teams see their data as a product? the concerned team sees the data as their product and is responsible for processing the data to be used as a ready-to-use unit."_
   - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
     - Cloud-first, elasticity, availability
     - Separation of storage and compute
@@ -98,14 +105,30 @@ A collection of my favorite quotes from my favorite books
     - ETL vs ELT
     - Serverless vs serverful loading
     - Batch versus streaming
+  - [_"I’ve been writing SQL for ~15 years. I’ve seen hundreds of thousands of lines of code. Over time I developed a set of patterns and best practices I always come back to when writing queries"_](https://twitter.com/ergestx/status/1479811885377765383)
 - Developer Experience
 - DevOps
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
+  - [_"Every company with 30+ employees should have a CAO — a chief automation officer."_](https://twitter.com/stephsmithio/status/1408918755627868160)
 - Leadership
+  - _"How to Make Decisions: 
+Is it a one-way or two-way door?, One-way = can't reverse so make them slowly and carefully, Two-way = reversible so make them fast"_
+  - [_"What are Staff Engineer archetypes?"_](https://twitter.com/GergelyOrosz/status/1472936962734575618)
 - Product thinking
   - [Products over projects](https://martinfowler.com/articles/products-over-projects.html)
 - Productivity
+  - _"Write down your thoughts. Our brains are great for coming up with ideas, not storing them. Free mental capacity by capturing what’s on your mind."_
+  - _"Follow the 2-min rule. If a to-do item takes less than 2min to get done, do it right away. This will prevent your to-do lists from growing too big."_
+  - _"Micro-tasks. When a task is too big, you won’t know how to start. Break out the smallest next step. Do that."_
 - Software engineering and craftsmanship
+  - _"The more experienced you get, hopefully the simpler you start to build things. An aspiration should be to write less code and build the least complicated thing to achieve the results and flexibility you need...not write more code faster. That's often just the easy way out."_ [Nick Craver](https://twitter.com/Nick_Craver/status/1312541748812423168)
+  - _"Performance is a feature. Simplicity is a feature."_ [Nick Craver](https://twitter.com/nick_craver/status/1168189925516337154)
+  - _"Don't mistake the simplest designs for the laziest. If often requires a lot more thought to simplify as much as possible. And it's worth it."_ [Nick Craver](https://twitter.com/Nick_Craver/status/743454245349883904)
+  - _"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."_ – Bill Gates"
+  - _"I'm declaring an interface because one day I may have multiple implementations" Sure. So when that day comes, do an Extract Interface refactoring. Most IDEs do it for you in a single click. Until then, drop the interface._ [Hadi Hariri](https://twitter.com/hhariri/status/1524018677116506114)
+  - _"If you can tell the difference between "testing" and "development," you may be going about development in the wrong way."_ [Allen Holub](https://twitter.com/allenholub/status/1522967952370282496)
+  - _"TDD "tests" are not tests. I wish we'd get over that. They are examples of how we want the code we are writing to be used, expressed in a test format so that we can execute them easily. As such, they are executable specifications—explaining how the code should work. Not tests."_ [Allen Holub](https://twitter.com/allenholub/status/1521957596445306881)
+  - _"Not deploying on Friday (or not ending a Sprint on Friday) is a huge red flag for me. It tells me that your code is such poor quality (and so poorly tested) that you're afraid of something going wrong over the weekend._" [Allen Holub](https://twitter.com/allenholub/status/1522685018014953474)
 - Transparency
   - [Gitlab as rolemodel](https://about.gitlab.com/handbook/values/#transparency)
   - [Posthog as rolemodel](https://posthog.com/handbook/company/culture#extremely-transparent)
