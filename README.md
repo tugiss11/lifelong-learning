@@ -86,6 +86,7 @@ A collection of my favorite quotes from my favorite books
   - [Event sourcing misconceptions](https://medium.com/eventuous/the-right-way-b1a82c787f7b)
 - Developer Experience
 - DevOps
+  - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
 - Leadership
 - Product thinking
 - Productivity
