@@ -83,6 +83,7 @@ A collection of my favorite quotes from my favorite books
 - Agile and lean
 - Coaching and mentoring
 - Data and analytics
+  - [Event sourcing misconceptions](https://medium.com/eventuous/the-right-way-b1a82c787f7b)
 - Developer Experience
 - DevOps
 - Leadership
