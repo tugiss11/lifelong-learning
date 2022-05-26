@@ -81,11 +81,11 @@ A collection of my favorite quotes from my favorite books
 
 ## List of professional passions
 - Agile and lean
-  - _"A backlog full of promises is a backlog full of waste. Any promise made on past understanding is likely to be wrong in the light of current understanding."_ [Allen Holub](https://twitter.com/allenholub/status/1522975948332621824)
-  - _"An Agile way to build: 1) Build the smallest simplest thing that does the work necessary to provide a small bit of value. That rarely requires a database. 2) Incrementally improve that thing. 3) If some improvement would have been easier had there been a database, refactor it in."_ [Allen Holub](https://twitter.com/allenholub/status/1519041444773830657)
-  - _"How do you decide what to put in a Sprint without estimates? Just pick the most valuable thing and break it into small chunks so that you can identify the less-valuable parts and deliver often. If it's truly valuable, you can't afford not to do it, so estimates are irrelevant._" [Allen Holub](https://twitter.com/allenholub/status/1529526688270278656)
-  - _"Working at 100% capacity is never a good idea. If local firefighters were putting out fires 100% of the time, you wouldn’t be very happy when your house caught fire. “We’ve added you to the backlog. We'll be there in a few weeks.”"_ [Allen Holub](https://twitter.com/allenholub/status/1522242045959540736)
-  - _"Defects are waste, so if you find one, the kaizen approach is to change your process so that similar defects cannot occur again. The point is to not (just) fix the defect, but to fix the process that allowed the defect to occur in order to prevent future defects from happening."_ [Allen Holub](https://twitter.com/allenholub/status/1515558691197517824)
+  - _"A backlog full of promises is a backlog full of waste. Any promise made on past understanding is likely to be wrong in the light of current understanding."_ [- Allen Holub](https://twitter.com/allenholub/status/1522975948332621824)
+  - _"An Agile way to build: 1) Build the smallest simplest thing that does the work necessary to provide a small bit of value. That rarely requires a database. 2) Incrementally improve that thing. 3) If some improvement would have been easier had there been a database, refactor it in."_ [- Allen Holub](https://twitter.com/allenholub/status/1519041444773830657)
+  - _"How do you decide what to put in a Sprint without estimates? Just pick the most valuable thing and break it into small chunks so that you can identify the less-valuable parts and deliver often. If it's truly valuable, you can't afford not to do it, so estimates are irrelevant._" [- Allen Holub](https://twitter.com/allenholub/status/1529526688270278656)
+  - _"Working at 100% capacity is never a good idea. If local firefighters were putting out fires 100% of the time, you wouldn’t be very happy when your house caught fire. “We’ve added you to the backlog. We'll be there in a few weeks.”"_ [- Allen Holub](https://twitter.com/allenholub/status/1522242045959540736)
+  - _"Defects are waste, so if you find one, the kaizen approach is to change your process so that similar defects cannot occur again. The point is to not (just) fix the defect, but to fix the process that allowed the defect to occur in order to prevent future defects from happening."_ [- Allen Holub](https://twitter.com/allenholub/status/1515558691197517824)
 - Coaching and mentoring
 - Knowledge sharing
 - Data and analytics
@@ -109,27 +109,31 @@ A collection of my favorite quotes from my favorite books
 - Developer Experience
 - DevOps
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
-  - [_"Every company with 30+ employees should have a CAO — a chief automation officer."_](https://twitter.com/stephsmithio/status/1408918755627868160)
+  - _"Every company with 30+ employees should have a CAO — a chief automation officer."_ [- Steph Smith](https://twitter.com/stephsmithio/status/1408918755627868160)
 - Leadership
   - _"How to Make Decisions: 
 Is it a one-way or two-way door?, One-way = can't reverse so make them slowly and carefully, Two-way = reversible so make them fast"_
   - [_"What are Staff Engineer archetypes?"_](https://twitter.com/GergelyOrosz/status/1472936962734575618)
+  - [_"I managed multiple engineering teams before quitting big tech. Now that I quit, I can speak freely. Here are 12 things your manager may not be telling you, but I know for a fact will help you"_ - Louie Bacaj](https://twitter.com/LBacaj/status/1478241311392108545)
 - Product thinking
   - [Products over projects](https://martinfowler.com/articles/products-over-projects.html)
 - Productivity
   - _"Write down your thoughts. Our brains are great for coming up with ideas, not storing them. Free mental capacity by capturing what’s on your mind."_
   - _"Follow the 2-min rule. If a to-do item takes less than 2min to get done, do it right away. This will prevent your to-do lists from growing too big."_
   - _"Micro-tasks. When a task is too big, you won’t know how to start. Break out the smallest next step. Do that."_
+  - [_"This week I had a retro with my team and everyone shared that they were feelling more productive and found it easier to focus. It wasn't rocket science to make it work, but I thought I'd share a few tips how we made that happen"_ - Gregory Witek](https://twitter.com/gregorywitek/status/1486774462523576320)
 - Software engineering and craftsmanship
-  - _"The more experienced you get, hopefully the simpler you start to build things. An aspiration should be to write less code and build the least complicated thing to achieve the results and flexibility you need...not write more code faster. That's often just the easy way out."_ [Nick Craver](https://twitter.com/Nick_Craver/status/1312541748812423168)
-  - _"Performance is a feature. Simplicity is a feature."_ [Nick Craver](https://twitter.com/nick_craver/status/1168189925516337154)
-  - _"Don't mistake the simplest designs for the laziest. If often requires a lot more thought to simplify as much as possible. And it's worth it."_ [Nick Craver](https://twitter.com/Nick_Craver/status/743454245349883904)
+  - _"The more experienced you get, hopefully the simpler you start to build things. An aspiration should be to write less code and build the least complicated thing to achieve the results and flexibility you need...not write more code faster. That's often just the easy way out."_ [- Nick Craver](https://twitter.com/Nick_Craver/status/1312541748812423168)
+  - _"Very, very often the dumbest possible solution is the quickest possible solution. Don't over-engineer things. Usually you don't need to. And usually you won't get that time back. Simplicity has a lot of wins built-in."_ [- Nick Craver](https://twitter.com/Nick_Craver/status/1270469881658515459)
+  - _"Performance is a feature. Simplicity is a feature."_ [- Nick Craver](https://twitter.com/nick_craver/status/1168189925516337154)
+  - _"Don't mistake the simplest designs for the laziest. If often requires a lot more thought to simplify as much as possible. And it's worth it."_ [- Nick Craver](https://twitter.com/Nick_Craver/status/743454245349883904)
   - _"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."_ – Bill Gates"
-  - _"I'm declaring an interface because one day I may have multiple implementations" Sure. So when that day comes, do an Extract Interface refactoring. Most IDEs do it for you in a single click. Until then, drop the interface._ [Hadi Hariri](https://twitter.com/hhariri/status/1524018677116506114)
-  - _"If you can tell the difference between "testing" and "development," you may be going about development in the wrong way."_ [Allen Holub](https://twitter.com/allenholub/status/1522967952370282496)
-  - _"TDD "tests" are not tests. I wish we'd get over that. They are examples of how we want the code we are writing to be used, expressed in a test format so that we can execute them easily. As such, they are executable specifications—explaining how the code should work. Not tests."_ [Allen Holub](https://twitter.com/allenholub/status/1521957596445306881)
-  - _"Not deploying on Friday (or not ending a Sprint on Friday) is a huge red flag for me. It tells me that your code is such poor quality (and so poorly tested) that you're afraid of something going wrong over the weekend._" [Allen Holub](https://twitter.com/allenholub/status/1522685018014953474)
+  - _"I'm declaring an interface because one day I may have multiple implementations" Sure. So when that day comes, do an Extract Interface refactoring. Most IDEs do it for you in a single click. Until then, drop the interface."_ [- Hadi Hariri](https://twitter.com/hhariri/status/1524018677116506114)
+  - _"If you can tell the difference between "testing" and "development," you may be going about development in the wrong way."_ [- Allen Holub](https://twitter.com/allenholub/status/1522967952370282496)
+  - _"TDD "tests" are not tests. I wish we'd get over that. They are examples of how we want the code we are writing to be used, expressed in a test format so that we can execute them easily. As such, they are executable specifications—explaining how the code should work. Not tests."_ [- Allen Holub](https://twitter.com/allenholub/status/1521957596445306881)
+  - _"Not deploying on Friday (or not ending a Sprint on Friday) is a huge red flag for me. It tells me that your code is such poor quality (and so poorly tested) that you're afraid of something going wrong over the weekend._" [- Allen Holub](https://twitter.com/allenholub/status/1522685018014953474)
 - Transparency
   - [Gitlab as rolemodel](https://about.gitlab.com/handbook/values/#transparency)
   - [Posthog as rolemodel](https://posthog.com/handbook/company/culture#extremely-transparent)
+  - _"I'm consistently surprised by how the single act of doing this as an eng manager or product manager makes incredible waves: Send an email explaining what your team did the past 1-2 weeks, what your plans are for the next period, blockers & lessons learned. Every. Single. Time."_ [- Gergely Orosz](https://twitter.com/GergelyOrosz/status/1515394850224549898)
 
