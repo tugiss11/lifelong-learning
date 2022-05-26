@@ -89,6 +89,7 @@ A collection of my favorite quotes from my favorite books
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
 - Leadership
 - Product thinking
+  - [Products over projects](https://martinfowler.com/articles/products-over-projects.html)
 - Productivity
 - Software engineering and craftsmanship
 - Transparency
