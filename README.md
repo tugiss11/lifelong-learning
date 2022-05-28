@@ -115,6 +115,11 @@ A collection of my favorite quotes from my favorite books
 Is it a one-way or two-way door?, One-way = can't reverse so make them slowly and carefully, Two-way = reversible so make them fast"_
   - [_"What are Staff Engineer archetypes?"_](https://twitter.com/GergelyOrosz/status/1472936962734575618)
   - [_"I managed multiple engineering teams before quitting big tech. Now that I quit, I can speak freely. Here are 12 things your manager may not be telling you, but I know for a fact will help you"_ - Louie Bacaj](https://twitter.com/LBacaj/status/1478241311392108545)
+  - _“You don’t hire for skills, you hire for attitude. You can always teach skills.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
+   - _“When you compete against everyone else, no one wants to help you. But when you compete against yourself, everyone wants to help you.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
+   - _“Henry Ford summed it up best. “If I had asked people what they wanted,” he said, “they would have said a faster horse.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
+   - _“There are only two ways to influence human behavior: you can manipulate it or you can inspire it.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
+   - _“Average companies give their people something to work on. In contrast, the most innovative organizations give their people something to work toward.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
 - Product thinking
   - [Products over projects](https://martinfowler.com/articles/products-over-projects.html)
   - [The only thing that matters is getting to product/market fit.](https://pmarchive.com/guide_to_startups_part4.html)
