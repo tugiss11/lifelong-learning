@@ -86,6 +86,15 @@ A collection of my favorite quotes from my favorite books
   - _"How do you decide what to put in a Sprint without estimates? Just pick the most valuable thing and break it into small chunks so that you can identify the less-valuable parts and deliver often. If it's truly valuable, you can't afford not to do it, so estimates are irrelevant._" [- Allen Holub](https://twitter.com/allenholub/status/1529526688270278656)
   - _"Working at 100% capacity is never a good idea. If local firefighters were putting out fires 100% of the time, you wouldn’t be very happy when your house caught fire. “We’ve added you to the backlog. We'll be there in a few weeks.”"_ [- Allen Holub](https://twitter.com/allenholub/status/1522242045959540736)
   - _"Defects are waste, so if you find one, the kaizen approach is to change your process so that similar defects cannot occur again. The point is to not (just) fix the defect, but to fix the process that allowed the defect to occur in order to prevent future defects from happening."_ [- Allen Holub](https://twitter.com/allenholub/status/1515558691197517824)
+  - [Linear method](https://linear.app/method/introduction)
+    - Say no to busy work. Our tools should not make us the designers and maintainers of them. We should throw away or automate the busy work so you can focus on the more important work.
+    - Simple first, then powerful. Teams at different sizes have different needs. Tools should be simple to get started with and grow more powerful over time.
+    - Decide and move on. There isn't always a best answer. The important thing is to make a decision, and move on.
+    - Connect daily work to larger goals with projects. All projects and work should directly correlate to these goals.
+    - Scope issues to be as small as possible. It's hard to see visible progress when working on large tasks, which can be demotivating. Break down work into smaller parts and create an issue for each one when possible. Ideally you can complete several concrete tasks each week. It feels great to mark issues as done.
+    - Measure progress with actual work. The clearest way to see whether something is complete or not is to show the diff in the code or design file. When the tasks are scoped small, your changes will be small and easier to review, too. Avoid massive pull requests or large design changes.
+    - Prioritize enablers and blockers
+    - Scope projects down
 - Coaching and mentoring
 - Knowledge sharing
 - Data and analytics
