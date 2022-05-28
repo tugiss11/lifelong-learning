@@ -120,8 +120,8 @@ A collection of my favorite quotes from my favorite books
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
   - _"Every company with 30+ employees should have a CAO — a chief automation officer."_ [- Steph Smith](https://twitter.com/stephsmithio/status/1408918755627868160)
 - Leadership
-  - _"How to Make Decisions: 
-Is it a one-way or two-way door?, One-way = can't reverse so make them slowly and carefully, Two-way = reversible so make them fast"_
+  - _"How to Make Decisions:  Is it a one-way or two-way door?, One-way = can't reverse so make them slowly and carefully, Two-way = reversible so make them fast"_ - Jeff Bezos
+  - _"People think of Amazon as very data-oriented and I always tell them, look, if you can make the decision with data, make the decision with data. But a lot of the most important decisions simply cannot be made with data. Most decisions should probably be made with somewhere around 70 percent of the information you wish you had. If you wait for 90 percent, in most cases, you're probably being slow."_ - Jeff Bezos
   - [_"What are Staff Engineer archetypes?"_](https://twitter.com/GergelyOrosz/status/1472936962734575618)
   - [_"I managed multiple engineering teams before quitting big tech. Now that I quit, I can speak freely. Here are 12 things your manager may not be telling you, but I know for a fact will help you"_ - Louie Bacaj](https://twitter.com/LBacaj/status/1478241311392108545)
   - _“You don’t hire for skills, you hire for attitude. You can always teach skills.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
