@@ -12,8 +12,8 @@ I will use this repository as tool to support my lifelong learning. This way of 
  - [List of professional passions](#list-of-professional-passions)
  
 ### Key sources of inspiration
-- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
-- [Gitlab handbook](https://about.gitlab.com/handbook/)
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing) 
+- [Gitlab handbook](https://about.gitlab.com/handbook/) and their values of collaboration, results, efficiency, iteration, trasparency, diversity, inclusion and belonging
 - [The Pragmatic Engineer newsletter](https://blog.pragmaticengineer.com/)
 
 ### Influential books
