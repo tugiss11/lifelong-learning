@@ -117,6 +117,7 @@ Is it a one-way or two-way door?, One-way = can't reverse so make them slowly an
   - [_"I managed multiple engineering teams before quitting big tech. Now that I quit, I can speak freely. Here are 12 things your manager may not be telling you, but I know for a fact will help you"_ - Louie Bacaj](https://twitter.com/LBacaj/status/1478241311392108545)
 - Product thinking
   - [Products over projects](https://martinfowler.com/articles/products-over-projects.html)
+  - [The only thing that matters is getting to product/market fit.](https://pmarchive.com/guide_to_startups_part4.html)
 - Productivity
   - _"Write down your thoughts. Our brains are great for coming up with ideas, not storing them. Free mental capacity by capturing what’s on your mind."_
   - _"Follow the 2-min rule. If a to-do item takes less than 2min to get done, do it right away. This will prevent your to-do lists from growing too big."_
