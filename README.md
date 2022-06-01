@@ -149,7 +149,8 @@ A collection of my favorite quotes from my favorite books
   - _"TDD "tests" are not tests. I wish we'd get over that. They are examples of how we want the code we are writing to be used, expressed in a test format so that we can execute them easily. As such, they are executable specifications—explaining how the code should work. Not tests."_ [- Allen Holub](https://twitter.com/allenholub/status/1521957596445306881)
   - _"Not deploying on Friday (or not ending a Sprint on Friday) is a huge red flag for me. It tells me that your code is such poor quality (and so poorly tested) that you're afraid of something going wrong over the weekend._" [- Allen Holub](https://twitter.com/allenholub/status/1522685018014953474)
 - Transparency
-  - [Gitlab as rolemodel](https://about.gitlab.com/handbook/values/#transparency)
-  - [Posthog as rolemodel](https://posthog.com/handbook/company/culture#extremely-transparent)
+  - [Gitlab as role model](https://about.gitlab.com/handbook/values/#transparency)
+  - [Posthog as role model](https://posthog.com/handbook/company/culture#extremely-transparent)
+  - [dbt Labs as role model](https://www.getdbt.com/dbt-labs/values/#:~:text=Transparency%20always%20wins.)
   - _"I'm consistently surprised by how the single act of doing this as an eng manager or product manager makes incredible waves: Send an email explaining what your team did the past 1-2 weeks, what your plans are for the next period, blockers & lessons learned. Every. Single. Time."_ [- Gergely Orosz](https://twitter.com/GergelyOrosz/status/1515394850224549898)
 
