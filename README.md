@@ -116,6 +116,8 @@ A collection of my favorite quotes from my favorite books
     - Batch versus streaming
   - [_"I’ve been writing SQL for ~15 years. I’ve seen hundreds of thousands of lines of code. Over time I developed a set of patterns and best practices I always come back to when writing queries"_](https://twitter.com/ergestx/status/1479811885377765383)
 - Developer Experience
+  - [Good developer experience](https://developerexperience.io/practices/good-developer-experience)
+  - [Developer happiness index](https://cult.honeypot.io/developer-happiness-index/global-insights)
 - DevOps
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
   - _"Every company with 30+ employees should have a CAO — a chief automation officer."_ [- Steph Smith](https://twitter.com/stephsmithio/status/1408918755627868160)
