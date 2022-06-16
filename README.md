@@ -118,6 +118,10 @@ A collection of my favorite quotes from my favorite books
 - Developer Experience
   - [Good developer experience](https://developerexperience.io/practices/good-developer-experience)
   - [Developer happiness index](https://cult.honeypot.io/developer-happiness-index/global-insights)
+  - [Eliminating toil](https://sre.google/sre-book/eliminating-toil/)
+    - _"Toil is not just "work I don’t like to do." It’s also not simply equivalent to administrative chores or grungy work. Preferences as to what types of work are satisfying and enjoyable vary from person to person, and some people even enjoy manual, repetitive work. There are also administrative chores that have to get done, but should not be categorized as toil: this is overhead."_
+    - _"If a human operator needs to touch your system during normal operations, you have a bug. The definition of normal changes as your systems grow."_
+    - _"Our SRE organization has an advertised goal of keeping operational work (i.e., toil) below 50% of each SRE’s time. At least 50% of each SRE’s time should be spent on engineering project work that will either reduce future toil or add service features. Feature development typically focuses on improving reliability, performance, or utilization, which often reduces toil as a second-order effect. We share this 50% goal because toil tends to expand if left unchecked and can quickly fill 100% of everyone’s time."_
 - DevOps
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
   - _"Every company with 30+ employees should have a CAO — a chief automation officer."_ [- Steph Smith](https://twitter.com/stephsmithio/status/1408918755627868160)
