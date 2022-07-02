@@ -80,7 +80,7 @@ A collection of my favorite quotes from my favorite books
   - _"Faster is safer: Ship early and often and in small batches to reduce the risk of each release and to minimize time to market."_
 
 ## List of professional passions
-- Agile and lean
+### Agile and lean
   - _"A backlog full of promises is a backlog full of waste. Any promise made on past understanding is likely to be wrong in the light of current understanding."_ [- Allen Holub](https://twitter.com/allenholub/status/1522975948332621824)
   - _"An Agile way to build: 1) Build the smallest simplest thing that does the work necessary to provide a small bit of value. That rarely requires a database. 2) Incrementally improve that thing. 3) If some improvement would have been easier had there been a database, refactor it in."_ [- Allen Holub](https://twitter.com/allenholub/status/1519041444773830657)
   - _"How do you decide what to put in a Sprint without estimates? Just pick the most valuable thing and break it into small chunks so that you can identify the less-valuable parts and deliver often. If it's truly valuable, you can't afford not to do it, so estimates are irrelevant._" [- Allen Holub](https://twitter.com/allenholub/status/1529526688270278656)
@@ -95,9 +95,15 @@ A collection of my favorite quotes from my favorite books
     - Measure progress with actual work. The clearest way to see whether something is complete or not is to show the diff in the code or design file. When the tasks are scoped small, your changes will be small and easier to review, too. Avoid massive pull requests or large design changes.
     - Prioritize enablers and blockers
     - Scope projects down
-- Coaching and mentoring
-- Knowledge sharing
-- Data and analytics
+### Coaching and mentoring
+  - [Coaching in Organizations and how it’s done](https://makeitnew.io/coaching-in-organizations-and-how-its-done-499ce8ffe449)
+  - [Developers mentoring other developers: practices I've seen work well](https://dev.to/gergelyorosz/developers-mentoring-other-developers-practices-i-ve-seen-work-well-245e)
+### Knowledge sharing
+  - Write things down. 
+    - _"Your mind is for having ideas, not holding them."_ [- David Allen](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
+    - [_"the faintest pencil is better than the sharpest memory."_](https://www.quora.com/What-does-The-faintest-pencil-is-better-than-the-sharpest-memory-mean)
+    - [Building a second brain](https://www.youtube.com/watch?v=OP3dA2GcAh8)
+### Data and analytics
   - [Event sourcing misconceptions](https://medium.com/eventuous/the-right-way-b1a82c787f7b)
   - [Data mesh principles](https://martinfowler.com/articles/data-mesh-principles.html)
     - _"Are you aiming to build a self-serve data infrastructure as a platform? An automated platform (Infra as a platform) allows the product team to control the lifecycle of data from the hands of a developer at the source to connect the data product and then run the semantic queries at mesh level. The platform provides storage, pipeline, data catalog, and access control to the domains. It reduces any chance of duplication in effort and hence increases the efficiency of data treatment._"
@@ -115,17 +121,17 @@ A collection of my favorite quotes from my favorite books
     - Serverless vs serverful loading
     - Batch versus streaming
   - [_"I’ve been writing SQL for ~15 years. I’ve seen hundreds of thousands of lines of code. Over time I developed a set of patterns and best practices I always come back to when writing queries"_](https://twitter.com/ergestx/status/1479811885377765383)
-- Developer Experience
+### Developer Experience
   - [Good developer experience](https://developerexperience.io/practices/good-developer-experience)
   - [Developer happiness index](https://cult.honeypot.io/developer-happiness-index/global-insights)
   - [Eliminating toil](https://sre.google/sre-book/eliminating-toil/)
     - _"Toil is not just "work I don’t like to do." It’s also not simply equivalent to administrative chores or grungy work. Preferences as to what types of work are satisfying and enjoyable vary from person to person, and some people even enjoy manual, repetitive work. There are also administrative chores that have to get done, but should not be categorized as toil: this is overhead."_
     - _"If a human operator needs to touch your system during normal operations, you have a bug. The definition of normal changes as your systems grow."_
     - _"Our SRE organization has an advertised goal of keeping operational work (i.e., toil) below 50% of each SRE’s time. At least 50% of each SRE’s time should be spent on engineering project work that will either reduce future toil or add service features. Feature development typically focuses on improving reliability, performance, or utilization, which often reduces toil as a second-order effect. We share this 50% goal because toil tends to expand if left unchecked and can quickly fill 100% of everyone’s time."_
-- DevOps
+### DevOps
   - [Guide to DORA metrics](https://www.swarmia.com/blog/dora-metrics/)
   - _"Every company with 30+ employees should have a CAO — a chief automation officer."_ [- Steph Smith](https://twitter.com/stephsmithio/status/1408918755627868160)
-- Leadership
+### Leadership
   - _"How to Make Decisions:  Is it a one-way or two-way door?, One-way = can't reverse so make them slowly and carefully, Two-way = reversible so make them fast"_ - Jeff Bezos
   - _"People think of Amazon as very data-oriented and I always tell them, look, if you can make the decision with data, make the decision with data. But a lot of the most important decisions simply cannot be made with data. Most decisions should probably be made with somewhere around 70 percent of the information you wish you had. If you wait for 90 percent, in most cases, you're probably being slow."_ - Jeff Bezos
   - [_"What are Staff Engineer archetypes?"_](https://twitter.com/GergelyOrosz/status/1472936962734575618)
@@ -135,15 +141,17 @@ A collection of my favorite quotes from my favorite books
    - _“Henry Ford summed it up best. “If I had asked people what they wanted,” he said, “they would have said a faster horse.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
    - _“There are only two ways to influence human behavior: you can manipulate it or you can inspire it.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
    - _“Average companies give their people something to work on. In contrast, the most innovative organizations give their people something to work toward.”_ [- Simon Sinek](https://www.goodreads.com/work/quotes/7367737-start-with-why-how-great-leaders-inspire-everyone-to-take-action)
-- Product thinking
+   - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
+### Product thinking
   - [Products over projects](https://martinfowler.com/articles/products-over-projects.html)
   - [The only thing that matters is getting to product/market fit.](https://pmarchive.com/guide_to_startups_part4.html)
-- Productivity
+  - [Henrik Kniberg: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+### Productivity
   - _"Write down your thoughts. Our brains are great for coming up with ideas, not storing them. Free mental capacity by capturing what’s on your mind."_
   - _"Follow the 2-min rule. If a to-do item takes less than 2min to get done, do it right away. This will prevent your to-do lists from growing too big."_
   - _"Micro-tasks. When a task is too big, you won’t know how to start. Break out the smallest next step. Do that."_
   - [_"This week I had a retro with my team and everyone shared that they were feelling more productive and found it easier to focus. It wasn't rocket science to make it work, but I thought I'd share a few tips how we made that happen"_ - Gregory Witek](https://twitter.com/gregorywitek/status/1486774462523576320)
-- Software engineering and craftsmanship
+### Software engineering and craftsmanship
   - _"The more experienced you get, hopefully the simpler you start to build things. An aspiration should be to write less code and build the least complicated thing to achieve the results and flexibility you need...not write more code faster. That's often just the easy way out."_ [- Nick Craver](https://twitter.com/Nick_Craver/status/1312541748812423168)
   - _"Very, very often the dumbest possible solution is the quickest possible solution. Don't over-engineer things. Usually you don't need to. And usually you won't get that time back. Simplicity has a lot of wins built-in."_ [- Nick Craver](https://twitter.com/Nick_Craver/status/1270469881658515459)
   - _"Performance is a feature. Simplicity is a feature."_ [- Nick Craver](https://twitter.com/nick_craver/status/1168189925516337154)
@@ -154,7 +162,8 @@ A collection of my favorite quotes from my favorite books
   - _"If you can tell the difference between "testing" and "development," you may be going about development in the wrong way."_ [- Allen Holub](https://twitter.com/allenholub/status/1522967952370282496)
   - _"TDD "tests" are not tests. I wish we'd get over that. They are examples of how we want the code we are writing to be used, expressed in a test format so that we can execute them easily. As such, they are executable specifications—explaining how the code should work. Not tests."_ [- Allen Holub](https://twitter.com/allenholub/status/1521957596445306881)
   - _"Not deploying on Friday (or not ending a Sprint on Friday) is a huge red flag for me. It tells me that your code is such poor quality (and so poorly tested) that you're afraid of something going wrong over the weekend._" [- Allen Holub](https://twitter.com/allenholub/status/1522685018014953474)
-- Transparency
+  - [Series of symptoms and situations that make us doubt the quality of our developments](https://maximilianocontieri.com/series/code-smells)
+### Transparency
   - [Gitlab as role model](https://about.gitlab.com/handbook/values/#transparency)
   - [Posthog as role model](https://posthog.com/handbook/company/culture#extremely-transparent)
   - [dbt Labs as role model](https://www.getdbt.com/dbt-labs/values/#:~:text=Transparency%20always%20wins.)
